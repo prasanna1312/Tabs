@@ -42,7 +42,3 @@ function step3() {
 }
 
 
-var b=10;
-console.log(b);
-var b=100;
-console.log(b);
